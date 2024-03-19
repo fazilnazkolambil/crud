@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927114247467",
+    "project_id": "operation-red-1a03d",
+    "storage_bucket": "operation-red-1a03d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927114247467:android:6f8a00acde7761ca02596e",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0bdYYa14ax78BCFUJcVtzYl3xJuW41V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
