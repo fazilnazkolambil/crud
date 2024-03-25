@@ -6,6 +6,8 @@ import 'package:crud/IntroPages/registrationPage.dart';
 import 'package:crud/IntroPages/splashScreen.dart';
 import 'package:crud/IntroPages/startScreen.dart';
 import 'package:crud/PostalCheck.dart';
+import 'package:crud/Tasks/addFood.dart';
+import 'package:crud/Tasks/checkoutPage.dart';
 import 'package:crud/mainPages/editUser.dart';
 import 'package:crud/mainPages/helloPage.dart';
 import 'package:crud/mainPages/profilePage.dart';
@@ -44,7 +46,7 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           textTheme: GoogleFonts.poppinsTextTheme(),
         ),
-        home: splashScreen(),
+        home: addFood(),
         debugShowCheckedModeBanner: false,
       ),
     );
